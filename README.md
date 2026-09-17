@@ -14,6 +14,6 @@ _build/author/diagrams.mjs   the inline SVG figures
 npm run catalog:author       regenerates this folder
 ```
 
-Companion guides: [The Forward Deployed Tester](https://akc031185.github.io/forward-deployed-tester/) · [QA Agents](https://akc031185.github.io/qa-agents/)
+Companion guides: [The Forward Deployed Tester](https://akc031185.github.io/forward-deployed-tester/) · [The AI Site Auditor](https://akc031185.github.io/ai-site-auditor/) · [The SDET Roadmap](https://akc031185.github.io/sdet-roadmap/) · [QA Agents](https://akc031185.github.io/qa-agents/)
 
 MIT.
